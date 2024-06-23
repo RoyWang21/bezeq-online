@@ -164,3 +164,4 @@ cython_debug/
 
 # firebase config file
 firebase/config.js
+firebase/
